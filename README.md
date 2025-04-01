@@ -4,11 +4,11 @@ EJERCICIO BATALLA POKEMON
 En mi proyecto aprendí cada herramienta vista  en el curso donde me enseño muschas cosas nuevas y novedosas para el desarrollo del ejercicio de programar este juego divertido en Python con sus clases y condiciones vistas en la clase.
       **Codigo**
        ejercicios del juego
-       pokemon/
+       pokemon4/
         │
         ├── data/
         │ └── pokemon.csv # Base de datos de Pokémon (requerido)
-        │
+         ├── ranking│
         ├── main.py # Programa principal
         └── README.md # Documentación
 1. Herramientas Utilizadas
